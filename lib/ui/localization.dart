@@ -2,7 +2,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_sheet_localization/flutter_sheet_localization.dart';
 
-import '../api/api.dart';
+import '../api/api_public.dart';
 
 part 'localization.g.dart';
 
